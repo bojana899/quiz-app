@@ -1,6 +1,6 @@
 # Getting Started with the QUIZ APP
 
-npm i
+npm i                                                                                                                                                                                                                                                       
 npm start
 
 
